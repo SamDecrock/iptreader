@@ -16,17 +16,12 @@ You can install __iptreader__ using the Node Package Manager (npm):
 var iptreader = require('iptreader');
 
 var someLicense = [
-    'Some Name',
-    '0x00',
-    '0x00',
-    '0x00',
-    '0x00',
-    '0x00',
-    '0x00',
-    '0x00',
-    '0x00',
-    '0x00',
-    'Some Build Number'
+    'Name',
+    '0x00000000',
+    '0x00000000',
+    '0x00000000',
+    '0x00000000',
+    'Some Buildnumber'
 ];
 
 
