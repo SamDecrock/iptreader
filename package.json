@@ -1,5 +1,5 @@
 {
-  "name": "iptrader",
+  "name": "iptreader",
   "description": "iptreader is a node.js library to read and change the license of IPT-files (Autodesk Inventor files)",
   "version": "0.0.1",
   "author": {
